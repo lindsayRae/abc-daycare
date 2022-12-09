@@ -1,0 +1,23 @@
+{
+  "name": "abc-day-care",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lindsayRae/abc-daycare.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindsayRae/abc-daycare/issues"
+  },
+  "homepage": "https://github.com/lindsayRae/abc-daycare#readme",
+  "dependencies": {
+    "exrpess": "^0.0.1-security"
+  }
+}
